@@ -39,4 +39,16 @@ main{
     width:80%;
 }
 
+#imagem{
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 260px;
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
 
+    
+}
